@@ -1,0 +1,11 @@
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\bin\Debug\netcoreapp2.1\DictionaryExamples.deps.json
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\bin\Debug\netcoreapp2.1\DictionaryExamples.runtimeconfig.json
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\bin\Debug\netcoreapp2.1\DictionaryExamples.runtimeconfig.dev.json
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\bin\Debug\netcoreapp2.1\DictionaryExamples.dll
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\bin\Debug\netcoreapp2.1\DictionaryExamples.pdb
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\obj\Debug\netcoreapp2.1\DictionaryExamples.csproj.CoreCompileInputs.cache
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\obj\Debug\netcoreapp2.1\DictionaryExamples.AssemblyInfoInputs.cache
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\obj\Debug\netcoreapp2.1\DictionaryExamples.AssemblyInfo.cs
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\obj\Debug\netcoreapp2.1\DictionaryExamples.dll
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\obj\Debug\netcoreapp2.1\DictionaryExamples.pdb
+C:\Users\seymurhus\source\repos\Arrays\DictionaryExamples\obj\Debug\netcoreapp2.1\DictionaryExamples.csprojAssemblyReference.cache
